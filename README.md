@@ -12,4 +12,9 @@
 
 # 待支持组件
 
+* Nginx
+* Redis 
+* MySQL
+* PostgreSQL
+
 # 待支持操作系统
